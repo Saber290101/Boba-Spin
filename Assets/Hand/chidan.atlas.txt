@@ -1,0 +1,13 @@
+
+chidan.png
+size: 492,329
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bantay
+  rotate: false
+  xy: 2, 2
+  size: 488, 325
+  orig: 488, 325
+  offset: 0, 0
+  index: -1
